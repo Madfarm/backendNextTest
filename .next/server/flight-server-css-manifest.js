@@ -1,6 +1,12 @@
 self.__RSC_CSS_MANIFEST={
-  "cssImports": {},
+  "cssImports": {
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/layout.js": [
+      "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/Nav.module.css"
+    ]
+  },
   "cssModules": {
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/people/page": []
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/page": [
+      "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/Nav.module.css"
+    ]
   }
 }

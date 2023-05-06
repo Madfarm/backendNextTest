@@ -30,5 +30,5 @@ require("./[next]_entry_app_server-to-client-ssr.tsx_f0b14d._.js");
 require("./[next]_entry_app_server-to-client-ssr.tsx_d91596._.js");
 require("./[next]_entry_app_layout-entry.tsx_b53fce._.js");
 require("./[next]_entry_app_layout-entry.tsx_f6fb64._.js");
-require("./[next]_entry_app-renderer.tsx_e9829b._.js");
-require("./[next]_entry_app-renderer.tsx_623063._.js");
+require("./[next]_entry_app-renderer.tsx_53d596._.js");
+require("./[next]_entry_app-renderer.tsx_976a73._.js");

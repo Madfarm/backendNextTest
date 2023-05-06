@@ -1,0 +1,20 @@
+/* [project]/app/people/PeopleIndex.module.css (css, css module, rsc) */
+.peopleCard__PeopleIndex__61a00c37 {
+  border: 2px solid white;
+  height: auto;
+  min-width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.name__PeopleIndex__61a00c37 {
+  color: pink;
+}
+.page__PeopleIndex__61a00c37 {
+  display: flex;
+  flex-flow: row wrap;
+}
+h1 {
+  color: aliceblue;
+  text-align: center;
+}

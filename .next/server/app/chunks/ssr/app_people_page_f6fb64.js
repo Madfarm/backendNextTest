@@ -6,7 +6,9 @@ __turbopack_esm__({
     default: () => __turbopack_import__("[project]/app/people/page.js (ecmascript, rsc)"),
     chunks: () => chunks,
 });
-const chunks = [];
+const chunks = [
+  "chunks/rsc/app_people_PeopleIndex.module_b5a149.css"
+];
 
 })()),
 }]);

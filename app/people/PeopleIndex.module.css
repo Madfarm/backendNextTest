@@ -1,0 +1,23 @@
+.peopleCard {
+    border: 2px solid white;
+    height: auto;
+    min-width: 400px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.name {
+    color: pink;
+}
+
+.page {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}

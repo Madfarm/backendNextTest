@@ -7,7 +7,8 @@ __turbopack_esm__({
     chunks: () => chunks,
 });
 const chunks = [
-  "chunks/rsc/app_Nav.module_b5a149.css"
+  "chunks/rsc/app_Nav.module_b5a149.css",
+  "chunks/rsc/app_globals.css"
 ];
 
 })()),
