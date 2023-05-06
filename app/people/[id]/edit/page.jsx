@@ -6,11 +6,11 @@ export default async function EditPeople({ params }) {
     const person = await res.json()
 
     async function editSubmit(formData){
-        'use server';
+        "use server";
 
-        url = `https://sei221-mern-api-test.herokuapp.com/people/${params.id}`
+        const url = `https://sei221-mern-api-test.herokuapp.com/people/${params.id}`
 
-        options = {
+        const options = {
             method: "PUT",
             headers: {
                 "Content-Type": "application/json"
@@ -18,10 +18,10 @@ export default async function EditPeople({ params }) {
             body: JSON.stringify(formData)
         }
 
-        const res = fetch(url, options)
+        const res = await fetch(url, options)
 
         revalidatePath(`/people/${params.id}/edit`)
-        return res.json();
+        return await res.json();
     }
 
     return (
@@ -34,6 +34,7 @@ export default async function EditPeople({ params }) {
                 <input name="image" type="text" defaultValue={person.image} />
                 <label>Title</label>
                 <input name="title" type="text" defaultValue={person.title} />
+                <input type="submit" />
             </form>
         </div>
     )
