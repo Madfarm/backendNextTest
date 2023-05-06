@@ -768,32 +768,6 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./app/people/[id]/Pets.jsx": {
-      "*": {
-        "id": "(sc_client)/./app/people/[id]/Pets.jsx",
-        "name": "*",
-        "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./app/people/[id]/Pets.jsx",
-        "name": "",
-        "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./app/people/[id]/Pets.jsx",
-        "name": "default",
-        "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./node_modules/next/dist/client/image.js": {
       "*": {
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
@@ -2735,29 +2709,12 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/people/[id]/Pets.jsx": {
-      "id": "(app-client)/./app/people/[id]/Pets.jsx",
-      "name": "*",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/people/[id]/Pets.jsx#": {
-      "id": "(app-client)/./app/people/[id]/Pets.jsx",
-      "name": "",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/people/[id]/Pets.jsx#default": {
-      "id": "(app-client)/./app/people/[id]/Pets.jsx",
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/people/PeopleIndex.module.css#": {
+      "id": "null",
       "name": "default",
       "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
+        "static/css/app/people/page.css"
+      ]
     },
     "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
@@ -3094,13 +3051,6 @@ self.__RSC_MANIFEST={
         "app/people/page:static/chunks/app/people/page.js"
       ],
       "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/people/PeopleIndex.module.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/people/page.css"
-      ]
     }
   }
 }

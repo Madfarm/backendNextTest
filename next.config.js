@@ -12,7 +12,7 @@ const nextConfig = {
             pathname: '/g/**/**',
           },
         ],
-      },
+    },
 };
    
   module.exports = nextConfig;

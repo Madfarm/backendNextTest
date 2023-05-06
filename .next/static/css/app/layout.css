@@ -5,13 +5,12 @@
     display: flex;
     justify-content: space-evenly;
 
-    background-color: blue;
-
+    background-color: rgb(5,10,24);
 }
 
 .Nav_Nav__AtYIH a {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 /*!***********************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[13].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[13].use[3]!./app/globals.css ***!
@@ -24,6 +23,12 @@ body {
     padding: 0;
     background-color: #242424;
     color: white;
+
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+    overflow: hidden;
 }
 
 a {
