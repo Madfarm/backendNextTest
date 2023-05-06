@@ -1,0 +1,12 @@
+.Nav {
+    display: flex;
+    justify-content: space-evenly;
+
+    background-color: blue;
+
+}
+
+.Nav a {
+    text-decoration: none;
+    color: black;
+}
