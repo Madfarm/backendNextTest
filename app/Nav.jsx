@@ -16,9 +16,9 @@ export default function Nav(){
             </div>
 
             <div>
-            <Link href="/people"><FontAwesomeIcon icon={faList} style={{color: "#ffffff",}} /></Link>
-            <Link href="/people"><FontAwesomeIcon icon={faList} style={{color: "#ffffff",}} /></Link>
-            <Link href="/people"><FontAwesomeIcon icon={faList} style={{color: "#ffffff",}} /></Link>
+            <Link href="/people"><FontAwesomeIcon icon={faList}/></Link>
+            <Link href="/people"><FontAwesomeIcon icon={faList} style={{color: "#ffffff"}} /></Link>
+            <Link href="/people"><FontAwesomeIcon icon={faList} style={{color: "#ffffff"}} /></Link>
 
             </div>
                 <Link href="/">Profile</Link>
