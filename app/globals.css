@@ -18,3 +18,28 @@ a {
     text-decoration: none;
     color:aliceblue;
 }
+
+#navLogo,
+#navLinks {
+    flex-basis: calc(100%/3);
+}
+
+#navProfile,
+#navLists {
+    flex-grow: 1;
+}
+
+#navLogo {
+    justify-content: flex-start;
+}
+
+#navLogo > a {
+    font-size: 2.5rem;
+}
+
+#navLists {
+    gap: 3rem;
+}
+#navLinks {
+    gap: 6rem;
+}

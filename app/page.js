@@ -5,8 +5,8 @@
 export default function HomePage(){
     
     return (
-        <section>
+        <main>
             <h1>Ayoooo</h1>
-        </section>
+        </main>
     )
 }

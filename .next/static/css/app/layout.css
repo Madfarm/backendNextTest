@@ -3,7 +3,8 @@
   \************************************************************************************************************************************************************************************************************************************************************/
 .Nav_Nav__AtYIH {
     display: flex;
-    justify-content: space-evenly;
+    width: 100%;
+    border-bottom: 1px solid rgb(255,255,255, 0.2);
 
     background-color: rgb(5,10,24);
 }
@@ -11,6 +12,16 @@
 .Nav_Nav__AtYIH a {
     text-decoration: none;
     color: white;
+}
+
+.Nav_navSection__EEQ9A {
+    display: flex;
+    padding: 3rem 2rem;
+    gap: 1rem;
+    border-left: 1px solid rgb(255,255,255, 0.2);
+
+    align-items: center;
+    justify-content: center;
 }
 /*!***********************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[13].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[13].use[3]!./app/globals.css ***!
@@ -34,6 +45,31 @@ body {
 a {
     text-decoration: none;
     color:aliceblue;
+}
+
+#navLogo,
+#navLinks {
+    flex-basis: calc(100%/3);
+}
+
+#navProfile,
+#navLists {
+    flex-grow: 1;
+}
+
+#navLogo {
+    justify-content: flex-start;
+}
+
+#navLogo > a {
+    font-size: 2.5rem;
+}
+
+#navLists {
+    gap: 3rem;
+}
+#navLinks {
+    gap: 6rem;
 }
 /*!*****************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[13].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[13].use[3]!./node_modules/@fortawesome/fontawesome-svg-core/styles.css ***!
