@@ -62,7 +62,7 @@ a {
 }
 
 #navLogo > a {
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 
 #navLists {
@@ -70,6 +70,42 @@ a {
 }
 #navLinks {
     gap: 6rem;
+}
+
+main {
+    flex-grow: 1;
+}
+
+main > article {
+    display: grid;
+    height: 100%;
+
+    grid-template-columns: 3fr 1fr 2fr;
+    grid-template-rows: 2fr 1fr;
+}
+
+main > article > .article-section {
+    height: 100%;
+}
+
+main > article > .art-desc,
+main > article > .art-nav {
+    border-left: 1px solid rgb(255,255,255,0.1);
+}
+
+main > article > .art-title,
+main > article > .art-nav {
+    border-top: 1px solid rgb(255,255,255,0.1);
+}
+
+
+.art-img {
+    grid-column: 1 / span 2;
+}
+
+
+.art-nav {
+    grid-column: 2 / span 2;
 }
 /*!*****************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[13].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[13].use[3]!./node_modules/@fortawesome/fontawesome-svg-core/styles.css ***!
