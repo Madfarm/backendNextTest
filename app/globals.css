@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
 }
+
 body {
     margin: 0;
     padding: 0;
@@ -16,7 +17,7 @@ body {
 
 a {
     text-decoration: none;
-    color:aliceblue;
+    color: aliceblue;
 }
 
 #navLogo,
@@ -33,13 +34,14 @@ a {
     justify-content: flex-start;
 }
 
-#navLogo > a {
+#navLogo>a {
     font-size: 2rem;
 }
 
 #navLists {
     gap: 3rem;
 }
+
 #navLinks {
     gap: 6rem;
 }
@@ -48,7 +50,7 @@ main {
     flex-grow: 1;
 }
 
-main > article {
+main>article {
     display: grid;
     height: 100%;
 
@@ -56,25 +58,35 @@ main > article {
     grid-template-rows: 2fr 1fr;
 }
 
-main > article > .article-section {
+main>article>.article-section {
     height: 100%;
 }
 
-main > article > .art-desc,
-main > article > .art-nav {
-    border-left: 1px solid rgb(255,255,255,0.1);
+main>article>.art-desc,
+main>article>.art-nav {
+    border-left: 1px solid rgb(255, 255, 255, 0.1);
 }
 
-main > article > .art-title,
-main > article > .art-nav {
-    border-top: 1px solid rgb(255,255,255,0.1);
+main>article>.art-title,
+main>article>.art-nav {
+    border-top: 1px solid rgb(255, 255, 255, 0.1);
 }
 
 
 .art-img {
     grid-column: 1 / span 2;
+    overflow: hidden;
+    height: 100%;
+    max-width: 100%;
+
 }
 
+.art-img>img {
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    width: 100%;
+}
 
 .art-nav {
     grid-column: 2 / span 2;

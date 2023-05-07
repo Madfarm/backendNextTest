@@ -742,38 +742,12 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "*",
-        "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "",
-        "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "default",
-        "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./node_modules/next/dist/client/image.js": {
       "*": {
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "*",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -781,7 +755,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -789,7 +763,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "default",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       }
@@ -799,7 +773,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "*",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -807,7 +781,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -815,7 +789,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "default",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -823,7 +797,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "defaultHead",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -831,7 +805,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "charSet",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -839,7 +813,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "name",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -847,7 +821,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "content",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -855,7 +829,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"title\"",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -863,7 +837,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"base\"",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -871,7 +845,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"meta\"",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -879,7 +853,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "TODO(prateekbh@)",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -887,7 +861,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"https",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -895,7 +869,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "here",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -903,7 +877,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "https",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -911,7 +885,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "reduceComponentsToState",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -919,7 +893,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "headManager",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -927,7 +901,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "inAmpMode",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
@@ -935,33 +909,33 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "value",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./app/people/[id]/Pets.jsx": {
+    "(app-client)/./node_modules/next/dist/client/link.js": {
       "*": {
-        "id": "(sc_client)/./app/people/[id]/Pets.jsx",
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "*",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./app/people/[id]/Pets.jsx",
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./app/people/[id]/Pets.jsx",
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "default",
         "chunks": [
-          "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+          "app/people/page:static/chunks/app/people/page.js"
         ],
         "async": false
       }
@@ -2673,6 +2647,342 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#charSet": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "charSet",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#charSet": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "charSet",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#name": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "name",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#name": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "name",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#content": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "content",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#content": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "content",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#\"title\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"title\"",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#\"title\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"title\"",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#\"base\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"base\"",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#\"base\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"base\"",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#\"meta\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"meta\"",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#\"meta\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"meta\"",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#TODO(prateekbh@)": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "TODO(prateekbh@)",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#TODO(prateekbh@)": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "TODO(prateekbh@)",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#\"https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"https",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#\"https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"https",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#here": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "here",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#here": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "here",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "https",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "https",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#reduceComponentsToState": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "reduceComponentsToState",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#reduceComponentsToState": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "reduceComponentsToState",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#headManager": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "headManager",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#headManager": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "headManager",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#inAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "inAmpMode",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#inAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "inAmpMode",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "value",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "value",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
     "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/globals.css#": {
       "id": "null",
       "name": "default",
@@ -2698,7 +3008,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+        "app/people/page:static/chunks/app/people/page.js"
       ],
       "async": false
     },
@@ -2706,7 +3016,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+        "app/people/page:static/chunks/app/people/page.js"
       ],
       "async": false
     },
@@ -2714,7 +3024,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+        "app/people/page:static/chunks/app/people/page.js"
       ],
       "async": false
     },
@@ -2722,7 +3032,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+        "app/people/page:static/chunks/app/people/page.js"
       ],
       "async": false
     },
@@ -2730,7 +3040,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+        "app/people/page:static/chunks/app/people/page.js"
       ],
       "async": false
     },
@@ -2738,7 +3048,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
+        "app/people/page:static/chunks/app/people/page.js"
       ],
       "async": false
     },
@@ -2748,366 +3058,6 @@ self.__RSC_MANIFEST={
       "chunks": [
         "static/css/app/people/page.css"
       ]
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/client/image.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/client/image.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/client/image.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/client/image.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/client/image.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/client/image.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "*",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "*",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "default",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "default",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#defaultHead": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "defaultHead",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "defaultHead",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#charSet": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "charSet",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#charSet": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "charSet",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#name": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "name",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#name": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "name",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#content": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "content",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#content": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "content",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#\"title\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"title\"",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#\"title\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"title\"",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#\"base\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"base\"",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#\"base\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"base\"",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#\"meta\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"meta\"",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#\"meta\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"meta\"",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#TODO(prateekbh@)": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "TODO(prateekbh@)",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#TODO(prateekbh@)": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "TODO(prateekbh@)",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#\"https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"https",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#\"https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"https",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#here": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "here",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#here": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "here",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "https",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "https",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#reduceComponentsToState": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "reduceComponentsToState",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#reduceComponentsToState": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "reduceComponentsToState",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#headManager": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "headManager",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#headManager": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "headManager",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#inAmpMode": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "inAmpMode",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#inAmpMode": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "inAmpMode",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/shared/lib/head.js#value": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "value",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/shared/lib/head.js#value": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "value",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/people/[id]/Pets.jsx": {
-      "id": "(app-client)/./app/people/[id]/Pets.jsx",
-      "name": "*",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/people/[id]/Pets.jsx#": {
-      "id": "(app-client)/./app/people/[id]/Pets.jsx",
-      "name": "",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/people/[id]/Pets.jsx#default": {
-      "id": "(app-client)/./app/people/[id]/Pets.jsx",
-      "name": "default",
-      "chunks": [
-        "app/people/[id]/page:static/chunks/app/people/[id]/page.js"
-      ],
-      "async": false
     }
   }
 }
