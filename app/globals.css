@@ -91,3 +91,12 @@ main>article>.art-nav {
 .art-nav {
     grid-column: 2 / span 2;
 }
+
+@keyframes slideout {
+    0% { transform: translateY(-100px); }
+  100% { transform: none; }
+}
+
+.slide-out {
+    animation: slideout 0.5s;
+}

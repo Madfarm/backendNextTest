@@ -20,6 +20,11 @@ self.__RSC_CSS_MANIFEST={
       "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/Nav.module.css",
       "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/globals.css",
       "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/@fortawesome/fontawesome-svg-core/styles.css"
+    ],
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/articles/page": [
+      "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/Nav.module.css",
+      "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/globals.css",
+      "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/@fortawesome/fontawesome-svg-core/styles.css"
     ]
   }
 }

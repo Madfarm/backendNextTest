@@ -12,7 +12,7 @@ export default function Nav(){
 
             <div className={styles.navSection} id="navLinks">
             <Link href="/people">People</Link>
-            <Link href="/people">People</Link>
+            <Link href="/articles">Articles</Link>
             </div>
 
             <div className={styles.navSection} id="navLists">

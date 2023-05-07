@@ -742,6 +742,58 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/people/page:static/chunks/app/people/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/people/page:static/chunks/app/people/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/people/page:static/chunks/app/people/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./app/page.js": {
+      "*": {
+        "id": "(sc_client)/./app/page.js",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/page.js",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/page.js",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./node_modules/next/dist/client/image.js": {
       "*": {
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
@@ -914,28 +966,28 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
+    "(app-client)/./app/articles/page.jsx": {
       "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "id": "(sc_client)/./app/articles/page.jsx",
         "name": "*",
         "chunks": [
-          "app/people/page:static/chunks/app/people/page.js"
+          "app/articles/page:static/chunks/app/articles/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "id": "(sc_client)/./app/articles/page.jsx",
         "name": "",
         "chunks": [
-          "app/people/page:static/chunks/app/people/page.js"
+          "app/articles/page:static/chunks/app/articles/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "id": "(sc_client)/./app/articles/page.jsx",
         "name": "default",
         "chunks": [
-          "app/people/page:static/chunks/app/people/page.js"
+          "app/articles/page:static/chunks/app/articles/page.js"
         ],
         "async": false
       }
@@ -2647,6 +2699,106 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/@fortawesome/fontawesome-svg-core/styles.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/Nav.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/people/page:static/chunks/app/people/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/page.js": {
+      "id": "(app-client)/./app/page.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/page.js#": {
+      "id": "(app-client)/./app/page.js",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/page.js#default": {
+      "id": "(app-client)/./app/page.js",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/people/PeopleIndex.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/people/page.css"
+      ]
+    },
     "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
@@ -2983,81 +3135,29 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/@fortawesome/fontawesome-svg-core/styles.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/Nav.module.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/client/link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/articles/page.jsx": {
+      "id": "(app-client)/./app/articles/page.jsx",
       "name": "*",
       "chunks": [
-        "app/people/page:static/chunks/app/people/page.js"
+        "app/articles/page:static/chunks/app/articles/page.js"
       ],
       "async": false
     },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/client/link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/people/page:static/chunks/app/people/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/client/link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/articles/page.jsx#": {
+      "id": "(app-client)/./app/articles/page.jsx",
       "name": "",
       "chunks": [
-        "app/people/page:static/chunks/app/people/page.js"
+        "app/articles/page:static/chunks/app/articles/page.js"
       ],
       "async": false
     },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/client/link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/people/page:static/chunks/app/people/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/client/link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/articles/page.jsx#default": {
+      "id": "(app-client)/./app/articles/page.jsx",
       "name": "default",
       "chunks": [
-        "app/people/page:static/chunks/app/people/page.js"
+        "app/articles/page:static/chunks/app/articles/page.js"
       ],
       "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/node_modules/next/dist/esm/client/link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/people/page:static/chunks/app/people/page.js"
-      ],
-      "async": false
-    },
-    "/home/madfarm/code-sandbox/Nextjs/backendNextTest/app/people/PeopleIndex.module.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/people/page.css"
-      ]
     }
   }
 }
