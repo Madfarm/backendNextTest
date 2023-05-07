@@ -1,8 +1,3 @@
-"use client";
-
-
-
-
 
 export default async function HomePage(){
     return (
